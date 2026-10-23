@@ -32,6 +32,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayush--kumawat--0-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-kumawat-0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kumawat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushhkumawat/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolioo.me)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+
 
 <br>
 
