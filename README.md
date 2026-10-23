@@ -32,8 +32,8 @@
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolioo.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushhkumawat/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushhkumawat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR_INSTAGRAM_URL](https://www.instagram.com/aayush.kumawat_?vrfl=d2k5cTJvZm5seG9r))
 
 
 
