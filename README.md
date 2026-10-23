@@ -30,10 +30,9 @@
 
 <p><b>MCA Student · Aspiring DevOps Engineer</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolioo.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushhkumawat/)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
 
 
